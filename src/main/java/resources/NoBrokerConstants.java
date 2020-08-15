@@ -3,7 +3,7 @@ package resources;
  * @class NoBrokerConstants
  * @class_description NoBrokerConstants class consists of all the constants related to verifyAbuseReport functionality
  * @created date 15-08-2020
- * @author VIKASH
+ * @author  VIKASH
  *
  */
 public class NoBrokerConstants {
